@@ -22,14 +22,16 @@ This project was developed using the following technologies:
 
 # 🚀 Getting started
 Clone the project and access the folder.
-
+````
 $ git clone https://github.com/WendelNogueira23/React-GiveMeRiddles.git
 $ cd React-GiveMeRiddles
-Follow the steps below:
-
+````
+# Follow the steps below:
+````
 # Install the dependencies
 $ yarn
 
 # Start the project
 $ yarn start
+````
 The app will be available for access on your browser at http://localhost:3000
